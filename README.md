@@ -1,12 +1,15 @@
-- 👋 Hi, I’m @deshmukhsuraj01
-- 👀 I’m interested in Python Machine Learning 
-- 🌱 I’m currently learning Data Science and Data Analytics
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me surajdeshmukh7511@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: i'm a Overtinker
+<h1 align="cenetr"> 👋 Hi, I’m @deshmukhsuraj01 </h1>
+<h3 align="center"> A Passionate Data Science Rokkie From BHARAT 🇮🇳  </h3>
 
-<!---
-deshmukhsuraj01/deshmukhsuraj01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+-📓 Currently Working on Oil Price Prediction
+-🌱 I’m currently learning Data Science and Data Analytics
+-😄 Pronouns: He/Him
+-📫 How to reach me : surajdeshmukh7511@gmail.com
+
+<h3 align="left">Connect with me :</h3>
+<p align="left">
+<a href="[https://www.linkedin.com/in/pratik-rathod-504829250/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/suraj-deahmukh-392878294/)" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Surajdesjmukh" height="30" width="40" /></a>
+</p>
+
