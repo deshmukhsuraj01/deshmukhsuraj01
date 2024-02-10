@@ -1,9 +1,9 @@
 <h1 align="cenetr"> 👋 Hi, I’m @deshmukhsuraj01 </h1>
-<h3 align="center">  A Passionate Data Science Rokkie From BHARAT  </h3>
+<h3 align="center">  A Passionate Data Science Rookie From BHARAT  </h3>
 
 
 -📓 Currently Working on Oil Price Prediction
--🌱 I’m currently learning Data Science and Data Analytics
+-🌱 I’m currently learning Data Science and Data Analytics🎓
 -😄 Pronouns: He/Him
 -📫 How to reach me : surajdeshmukh7511@gmail.com
 
