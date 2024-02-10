@@ -1,5 +1,5 @@
-<h1 align="cenetr"> 👋 Hi, I’m Suraj Deshmukh </h1>
-<h3 align="center">  A Passionate 🙋 Data Science Rookie From Bharat </h3>
+<h1 align="cenetr">👋 Hi, I’m Suraj Deshmukh </h1>
+<h3 align="center"> A Passionate 🙋 Data Science Rookie From Bharat </h3>
 
 
 -🌱 I’m currently learning : Data Science and Data Analytics🎓
