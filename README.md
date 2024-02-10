@@ -1,4 +1,4 @@
-<h1 align="cenetr">👋 Hi, I’m Suraj Deshmukh </h1>
+<h1 align="center">👋 Hi, I’m Suraj Deshmukh </h1>
 <h3 align="center"> A Passionate 🙋 Data Science Rookie From Bharat </h3>
 
 
