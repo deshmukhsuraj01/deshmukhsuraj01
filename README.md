@@ -1,11 +1,12 @@
 <h1 align="center">👋 Hi, I’m Suraj Deshmukh </h1>
 <h3 align="center"> A Passionate 🙋 Data Science Rookie From Bharat </h3>
 
-
--🌱 I’m currently learning : Data Science and Data Analytics🎓
--📓 Currently Working on : Oil Price Prediction
--😄 Pronouns : He/Him
--📫 How to reach me : surajdeshmukh7511@gmail.com
+<ul>
+<li>🌱 I’m currently learning : Data Science and Data Analytics🎓</li>
+<li>📓 Currently Working on : Oil Price Prediction</li>
+<li>😄 Pronouns : He/Him</li>
+<li>📫 How to reach me : surajdeshmukh7511@gmail.com</li>
+</ul>
 
 <h3 align="left">Connect with me :</h3>
 <p align="left">
