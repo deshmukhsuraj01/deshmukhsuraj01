@@ -2,8 +2,11 @@
 <h3 align="center">  A Passionate 🙋 Data Science Rookie From Bharat </h3>
 
 -🌱 I’m currently learning : Data Science and Data Analytics🎓
+
 -📓 Currently Working on : Oil Price Prediction
+
 -😄 Pronouns : He/Him
+
 -📫 How to reach me : surajdeshmukh7511@gmail.com
 
 <h3 align="left">Connect with me :</h3>
