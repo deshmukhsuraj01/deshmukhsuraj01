@@ -3,7 +3,7 @@
 
 <ul>
 <li>🌱 I’m currently learning : Data Science and Data Analytics🎓</li>
-<li>📓 Currently Working on : Oil Price Prediction</li>
+<li>📓 Currently Working on Bankruptcy </li>
 <li>🙋 Ask me about : Python,HTML  </li>
 <li>😄 Pronouns : He/Him</li>
 <li>📫 How to reach me : surajdeshmukh7511@gmail.com</li>
